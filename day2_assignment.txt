@@ -1,0 +1,53 @@
+Meaning of python variable:
+Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. ... Variables can be declared by any name or even alphabets like a, aa, abc, etc.
+
+Rules for naming variables:
+All variable names must begin with a letter of the alphabet or an. underscore( _ ). ...
+After the first initial letter, variable names can also contain letters and numbers. ...
+Uppercase characters are distinct from lowercase characters. ...
+You cannot use a C++ keyword (reserved word) as a variable name.
+
+Types of operators
+Assignment Operator.
+Mathematical Operators.
+Relational Operators.
+Logical Operators.
+Bitwise Operators.
+Shift Operators.
+Unary Operators.
+Ternary Operator.
+
+Operator	        Use	Description
++	op1 + op2	Adds op1 and op2; also used to 
+                                  concatenate strings
+-	op1 - op2	Subtracts op2 from op1
+*	op1 * op2	Multiplies op1 by op2
+/	op1 / op2	Divides op1 by op2
+%	op1 % op2	Computes the remainder of 
+                                 dividing op1 by op2
+
+comparison operator
+Operator	                  Description	Operates on
+=Equal to.	              Any compatible data 
+                                             types
+>Greater than.	             Any compatible data 
+                                              types
+< Less than.	                        Any compatible data types
+>=	Greater than equal to.	    Any compatible data types
+<=	Less than equal to.	Any compatible data types
+!= Not equal to.	                Any compatible
+
+Bitwise  operator
+Operators	Meaning of operators
+&	Bitwise AND
+|	Bitwise OR
+^	Bitwise XOR
+~	Bitwise complement
+<<	Shift left
+>>	Shift right
+
+
+Identity operator
+is – returns True if the type of the value in the right operand points to the same type in the left operand. For example, type(3) is int evaluates to True because 3 is indeed an integer number.
+is not – returns True if the type of the value in the right operand points to a different type than the value in the left operand. For example, type(3) is not float evaluates to True because 3 is not a floating-point value.
+
